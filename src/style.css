@@ -1,3 +1,7 @@
+body {
+  background-color: blanchedalmond;
+}
+
 h1 {
   text-align: center;
   margin-bottom: 20px;
@@ -6,6 +10,7 @@ h1 {
 .links {
   display: flex;
   justify-content: space-evenly;
+  color: green;
 }
 
 img {
